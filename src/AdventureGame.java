@@ -45,6 +45,7 @@ public class AdventureGame {
 boolean firstPage = true;
 int option1 = 1;
 int option2 = 2;
+boolean running = true;
 
       
 
